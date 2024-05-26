@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.jordanhandy.com](https://www.jordanhandy.com)
 
-- 📫 How to reach me **handy.jordan@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HNEAk8yCt6_klWXjX7lqnfvm7d68ur2A/view?usp=sharing](https://drive.google.com/file/d/1HNEAk8yCt6_klWXjX7lqnfvm7d68ur2A/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
