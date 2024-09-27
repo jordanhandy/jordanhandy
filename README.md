@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jordan</h1>
 <h3 align="center">A full stack web developer, and tinkerer of all things geeky and gadget-y</h3>
 
-- 🔭 I’m currently working on [obsidian-cloudinary-uploader](https://github.com/jordanhandy/obsidian-cloudinary-uploader) and [amplenote-imgbb-uploader](https://github.com/jordanhandy/amplenote-imgbb-plugin)
+- 🔭 I’m currently working on [obsidian-cloudinary-uploader](https://github.com/jordanhandy/obsidian-cloudinary-uploader) and [amplenote-imgbb-uploader](https://github.com/jordanhandy/amplenote-imgbb-plugin).  I also do a lot of work with Salesforce Apex, LWC, Visualforce, and Aura customizations.
 
-- 🌱 I’m currently learning **Hugo, Gatsby**
 
 - 👨‍💻 All of my projects are available at [https://www.jordanhandy.com](https://www.jordanhandy.com)
 
